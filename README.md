@@ -27,6 +27,8 @@
 ## Observação 1
 A pasta billboard possui códigos para baixar áudios de músicas do youtube, mas os áudios não estão disponíveis aqui. Porém, sintam-se livres para utilizar o código. O objetivo final do grupo de estudos eram análises, então não foi necessário manter os aúdios baixados. a pasta realbook, por outro lado, tem códigos sobre as músicas do realbook.com, sendo utilizados para baixar áudios a serem usados na criação de uma inteligência artificial. Esses áudios podem ser encontrados em sua pasta compactada no endereço: https://drive.google.com/drive/folders/1HTDx8bsA3QMDMmFCAXb_hK6tdj7Cf2vt?usp=sharing
 
+Para mais dados baixados e outras informações do projeto, preça acesso à pasta do drive: https://drive.google.com/drive/folders/1RTFf38fDvN2lxUKc_EV9-gdgwUBCI6zV?usp=drive_link
+
 ## Observação 2
 O pré-processamento dos dados de áudio seguiu um pipeline bem definido para transformar as músicas brutas em um formato adequado para análise e modelos de aprendizado de máquina. Abaixo estão as etapas principais:
 
@@ -60,6 +62,7 @@ O pré-processamento dos dados de áudio seguiu um pipeline bem definido para tr
 # 👩 Autores
 
 Grupo de Extensão de Música guiado pelo professor Flávio Figueiredo, com o auxílio de alunos do laboratório UAI e organizados no Departamento de Ciência da Computação, na Universidade Federa de Minas Gerais.
+
 
 
 
